@@ -1,0 +1,4 @@
+setcoin
+=======
+
+Configurable crypto currency
